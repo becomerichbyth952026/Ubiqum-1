@@ -1,0 +1,100 @@
+.Title{
+       
+    position: relative;
+    top: 15px;
+    left: 270px;
+}
+
+
+
+.nav{
+
+    position: relative;
+    top: 17px;
+    left: 249px;
+}
+
+ul {
+    list-style-type: none;
+  }
+
+
+
+.Home{
+
+    position: relative;
+    top: -1px;
+    left: 1px;
+}
+
+
+
+.About{
+
+    position: relative;
+    top: -19px;
+    left: 69px;
+
+}
+
+
+.Contact{
+
+    position: relative;
+    top: -37px;
+    left: 139px;
+
+}
+
+.img{
+
+    position: relative;
+    top: -123px;
+    left: 50px;
+
+}
+
+
+.img2{
+
+    position: relative;
+    top: 135px;
+    left: -141px;
+}
+
+
+.p1{
+
+    position: relative;
+    top: -142px;
+    left: 322px
+
+}
+
+
+.p2{
+
+    position: relative;
+    top: -124px;
+    left: 322px;
+}
+
+
+
+.p3{
+
+    position: relative;
+    top: -87px;
+    left: 322px;
+}
+
+
+.p4{
+    
+    position: relative;
+    top: -42px;
+    left: 322px;
+}
+
+
+

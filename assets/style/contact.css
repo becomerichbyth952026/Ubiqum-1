@@ -1,0 +1,66 @@
+.title{
+    position: relative;
+    top: 15px;
+    left: 270px;
+}
+
+.nav{
+
+    position: relative;
+    top: 17px;
+    left: 249px; 
+}
+ul {
+    list-style-type: none;
+  }
+
+.Home{
+
+    position: relative;
+    top: -1px;
+    left: 1px;
+}
+
+
+.About{
+
+    position: relative;
+    top: -19px;
+    left: 69px;
+
+}
+
+
+.Contact{
+   
+    position: relative;
+    top: -37px;
+    left: 139px;
+
+}
+
+.img{
+
+    position: relative;
+    top: -123px;
+    left: 50px;
+
+}
+
+
+.img2{
+
+    position: relative;
+    top: 135px;
+    left: -141px;
+}
+
+
+.p{
+
+    position: relative;
+    top: -73px;
+    left: 326px;
+}
+
+

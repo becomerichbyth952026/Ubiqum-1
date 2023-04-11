@@ -1,0 +1,99 @@
+.Title{
+
+    position: relative;
+    margin-left: 69px;
+    margin-top: 22px;
+    margin-right: 491px;
+    width: 787
+    px;
+    font-size: 50px;
+    top: 57px;
+    height: 84px;
+}
+
+
+
+
+
+.Alternative-car{
+
+    position: relative;
+    width: 1300px;
+    left: 37px;
+    margin-top: -77px
+}
+
+.Sub-title{
+
+    position: relative;
+    margin-left: -295px;
+    margin-top: -1px;
+    top: -3px;
+    font-size: 65px;
+    left: 332px;
+    background-color: royalblue;
+    margin-right: 419px;
+    margin-bottom: 1px;
+    text-align: center;
+}
+
+
+.LOGO{
+
+    position: relative;
+    left: 961px;
+    width: 250px;
+    height: 250px;
+    top: -227px
+
+}
+
+
+.nav{
+
+    position: relative;
+    float: left;
+    font-size: 40px;
+    left: 14px;
+    margin-bottom: -650px;
+    top: -126px;
+}
+    
+
+ul {
+    list-style-type: none;
+}
+
+.home{
+
+    position: relative;
+    top: -21px;
+}
+
+
+.about{
+
+    position: relative;
+    top: 1px;
+}
+
+
+
+.contact{
+
+    position: relative;
+    top: 17px;
+}
+
+
+.info{
+
+    position: relative;
+    left: 253px;
+    top: -173px;
+    font-size: 25px;
+}
+
+
+
+

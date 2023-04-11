@@ -1,7 +1,11 @@
 .title{
     position: relative;
-    top: 15px;
-    left: 270px;
+    margin-left: 56px;
+    margin-top: 22px;
+    width: 783px;
+    font-size: 72px;
+    top: 33px;
+    height: 87px;
 }
 
 .nav{

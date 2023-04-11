@@ -86,6 +86,13 @@ ul {
 }
 
 
+.about{
+
+    position: relative;
+    top: 1px;
+}
+
+
 .contact{
 
     position: relative;
@@ -97,10 +104,11 @@ ul {
 .info{
 
     position: relative;
-    left: 307px;
-    top: -65px;
+    left: 253px;
     font-size: 32px;
+    bottom: 140px;
 }
+
 
 .indent1{
 

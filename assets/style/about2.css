@@ -1,14 +1,12 @@
 .Title{
 
     position: relative;
-    margin-left: 69px;
+    margin-left: 56px;
     margin-top: 22px;
-    margin-right: 491px;
-    width: 787
-    px;
-    font-size: 50px;
-    top: 57px;
-    height: 84px;
+    width: 783px;
+    font-size: 72px;
+    top: 33px;
+    height: 87px;
 }
 
 
@@ -26,27 +24,38 @@
 .Sub-title{
 
     position: relative;
-    margin-left: -295px;
-    margin-top: -1px;
-    top: -3px;
+    margin-top: 0px;
+    top: 0px;
     font-size: 65px;
-    left: 332px;
+    left: 0px;
     background-color: royalblue;
-    margin-right: 419px;
+    margin-right: 0px;
     margin-bottom: 1px;
     text-align: center;
+    margin-left: 43px;
 }
+
 
 
 .LOGO{
 
     position: relative;
-    left: 961px;
-    width: 250px;
-    height: 250px;
-    top: -227px
+    bottom: 109px;
+    left: 1109px;
+    width: 150px;
+    height: 150px;
 
 }
+
+
+.title-back{
+    background-image: url(../media/img/Alternative\ Image.jpeg);
+    background-size: cover;
+    height: 735px;
+    margin-left: 43px;
+    margin-top: 40px;
+}
+
 
 
 .nav{
@@ -56,7 +65,7 @@
     font-size: 40px;
     left: 14px;
     margin-bottom: -650px;
-    top: -126px;
+    top: -57px;
 }
     
 
@@ -82,7 +91,7 @@ ul {
 .contact{
 
     position: relative;
-    top: 17px;
+    top: 20px;
 }
 
 

@@ -1,4 +1,4 @@
-.Title{
+.title{
 
     position: relative;
     margin-left: 56px;
@@ -11,18 +11,7 @@
 
 
 
-
-
-.Alternative-car{
-
-    position: relative;
-    width: 1300px;
-    left: 37px;
-    margin-top: -77px
-}
-
-
-.Sub-title{
+.sub-title{
 
     position: relative;
     margin-top: 0px;
@@ -38,7 +27,7 @@
 
 
 
-.LOGO{
+.logo{
 
     position: relative;
     bottom: 109px;
@@ -66,7 +55,7 @@
     font-size: 40px;
     left: 14px;
     margin-bottom: -650px;
-    top: -57px;
+    bottom: 15px;
 }
     
 
@@ -77,7 +66,7 @@ ul {
 .home{
 
     position: relative;
-    top: -21px;
+    bottom: 15px;
 }
 
 
@@ -102,6 +91,6 @@ ul {
     position: relative;
     left: 250px;
     font-size: 37px;
-    top: -136px;
+    bottom: 110px;
 }
 

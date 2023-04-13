@@ -1,4 +1,4 @@
-.Title{
+.title{
 
     position: relative;
     margin-left: 56px;
@@ -10,18 +10,7 @@
 }
 
 
-
-
-
-.Alternative-car{
-
-    position: relative;
-    width: 1300px;
-    left: 37px;
-    margin-top: -77px
-}
-
-.Sub-title{
+.sub-title{
 
     position: relative;
     margin-top: 0px;
@@ -37,7 +26,7 @@
 
 
 
-.LOGO{
+.logo{
 
     position: relative;
     bottom: 109px;
@@ -64,8 +53,8 @@
     float: left;
     font-size: 40px;
     left: 14px;
-    margin-bottom: -650px;
-    top: -57px;
+    bottom: 9px;
+    
 }
     
 
@@ -76,12 +65,11 @@ ul {
 .home{
 
     position: relative;
-    top: -21px;
+    bottom: 15px;
 }
 
 
 .about{
-
     position: relative;
     top: 1px;
 }
@@ -89,19 +77,37 @@ ul {
 
 
 .contact{
-
     position: relative;
     top: 20px;
 }
 
 
 .info{
-
     position: relative;
     left: 253px;
     top: -173px;
     font-size: 25px;
 }
+
+
+.mission{
+    position: relative;
+    right: 161px;
+}
+
+.quote{
+    position: relative;
+    right: 161px;
+}
+
+
+.vision{
+    position: relative;
+    right: 161px;
+}
+
+
+
 
 
 

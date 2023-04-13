@@ -1,5 +1,4 @@
-.Title{
-
+.title{
     position: relative;
     margin-left: 56px;
     margin-top: 22px;
@@ -10,19 +9,7 @@
 }
 
 
-
-
-
-.Alternative-car{
-
-    position: relative;
-    width: 1300px;
-    left: 37px;
-    margin-top: -77px
-}
-
-.Sub-title{
-
+.sub-title{
    position: relative;
     margin-top: 0px;
     top: 0px;
@@ -42,7 +29,7 @@
 
 
 
-.LOGO{
+.logo{
    position: relative;
     bottom: 109px;
     left: 1109px;
@@ -67,8 +54,7 @@
     float: left;
     font-size: 40px;
     left: 14px;
-    margin-bottom: -650px;
-    top: -57px;
+    bottom: 4px;
 }
 
     
@@ -82,12 +68,12 @@ ul {
 .home{
 
     position: relative;
-    top: -21px;
+    bottom: 12px;
 }
 
 
 .about{
-
+    
     position: relative;
     top: 1px;
 }
@@ -110,18 +96,28 @@ ul {
 }
 
 
-.indent1{
 
+.february12{
+    
     position: relative;
-    margin-top: 10px;
-    top: -23px;
-    left: 32px;
+    right: 55px;
 }
 
 
-.February25{
-    
-    margin-bottom: 2px;
+
+.indent1{
+
+    position: relative;
+    bottom: 9px;
+    left: 7px;
+}
+
+
+.february25{
+
+    position: relative;
+    bottom: 9px;
+    right: 56px;
 }
 
 
@@ -129,22 +125,24 @@ ul {
 .indent2{
 
     position: relative;
-    top: -13px;
-    left: 35px;
+    bottom: 9px;
+    left: 171px;
 }
 
 
+.march12{
 
-.March12{
-
-    margin-bottom: -15px;
+    bottom: 9px;
     position: relative;
+    left: 110px;
 }
+
 
 
 
 .indent3{
 
     position: relative;
-    left: 36px;
+    left: 172px;
+    bottom: 9px;
 }

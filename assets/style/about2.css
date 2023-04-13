@@ -1,5 +1,4 @@
 .title{
-
     position: relative;
     margin-left: 56px;
     margin-top: 22px;
@@ -11,7 +10,6 @@
 
 
 .sub-title{
-
     position: relative;
     margin-top: 0px;
     top: 0px;
@@ -27,7 +25,6 @@
 
 
 .logo{
-
     position: relative;
     bottom: 109px;
     left: 1109px;
@@ -46,9 +43,7 @@
 }
 
 
-
 .nav{
-
     position: relative;
     float: left;
     font-size: 40px;
@@ -62,8 +57,8 @@ ul {
     list-style-type: none;
 }
 
-.home{
 
+.home{
     position: relative;
     bottom: 15px;
 }
@@ -80,6 +75,7 @@ ul {
     position: relative;
     top: 20px;
 }
+
 
 
 .info{

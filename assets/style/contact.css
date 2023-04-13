@@ -1,15 +1,11 @@
 .title{
     position: relative;
-    margin-left: 56px;
-    margin-top: 22px;
-    width: 783px;
-    font-size: 72px;
-    top: 33px;
-    height: 87px;
+    top: 15px;
+    left: 270px;
 }
 
-.nav{
 
+.nav{
     position: relative;
     top: 17px;
     left: 249px; 
@@ -18,16 +14,14 @@ ul {
     list-style-type: none;
   }
 
-.Home{
-
+.home{
     position: relative;
     top: -1px;
     left: 1px;
 }
 
 
-.About{
-
+.about{
     position: relative;
     top: -19px;
     left: 69px;
@@ -35,8 +29,7 @@ ul {
 }
 
 
-.Contact{
-   
+.contact{
     position: relative;
     top: -37px;
     left: 139px;
@@ -44,7 +37,6 @@ ul {
 }
 
 .img{
-
     position: relative;
     top: -123px;
     left: 50px;
@@ -61,7 +53,6 @@ ul {
 
 
 .p{
-
     position: relative;
     top: -73px;
     left: 326px;

@@ -1,40 +1,36 @@
 .title{
-
     position: relative;
     top: 15px;
     left: 270px;
+}
+
+
+.nav{
+    position: relative;
+    top: 17px;
+    left: 249px;
 }
 
 ul {
     list-style-type: none;
   }
 
-.nav{
 
-    position: relative;
-    top: 17px;
-    left: 249px;
-}
-
-
-.Home{
-
+.home{
     position: relative;
     top: -1px;
     left: 1px;
 }
 
 
-.About{
-
+.about{
     position: relative;
     top: -19px;
     left: 69px;
 }
 
 
-.Contact{
-
+.contact{
     position: relative;
     top: -37px;
     left: 139px;
@@ -42,7 +38,6 @@ ul {
 
 
 .img{
-    
     position: relative;
     top: -123px;
     left: 50px;
@@ -50,7 +45,6 @@ ul {
 
 
 .img2{
-
     position: relative;
     top: 135px;
     left: -141px;
@@ -58,7 +52,6 @@ ul {
 
 
 .p1{
-
     position: relative;
     top: -230px;
     left: 300px;
@@ -66,7 +59,6 @@ ul {
 
 
 .p2{
-
     position: relative;
     top: -180px;
     left: 300px; 
@@ -74,7 +66,6 @@ ul {
 
 
 .p3{
-
     position: relative;
     top: -145px;
     left: 300px;

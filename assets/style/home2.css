@@ -24,11 +24,6 @@
 
 
 
-
-
-
-
-
 .logo{
    position: relative;
     bottom: 109px;
@@ -49,7 +44,6 @@
 
 
 .nav{
-
     position: relative;
     float: left;
     font-size: 40px;
@@ -64,23 +58,20 @@ ul {
   }
 
 
-
 .home{
-
     position: relative;
     bottom: 12px;
 }
 
 
 .about{
-    
     position: relative;
     top: 1px;
 }
 
 
-.contact{
 
+.contact{
     position: relative;
     top: 20px;
 }
@@ -88,7 +79,6 @@ ul {
 
 
 .info{
-
     position: relative;
     left: 253px;
     font-size: 32px;
@@ -98,7 +88,6 @@ ul {
 
 
 .february12{
-    
     position: relative;
     right: 55px;
 }
@@ -106,7 +95,6 @@ ul {
 
 
 .indent1{
-
     position: relative;
     bottom: 9px;
     left: 7px;
@@ -114,7 +102,6 @@ ul {
 
 
 .february25{
-
     position: relative;
     bottom: 9px;
     right: 56px;
@@ -123,7 +110,6 @@ ul {
 
 
 .indent2{
-
     position: relative;
     bottom: 9px;
     left: 171px;
@@ -131,7 +117,6 @@ ul {
 
 
 .march12{
-
     bottom: 9px;
     position: relative;
     left: 110px;
@@ -141,7 +126,6 @@ ul {
 
 
 .indent3{
-
     position: relative;
     left: 172px;
     bottom: 9px;

@@ -18,21 +18,22 @@ ul {
 
 .home{
     position: relative;
-    top: -1px;
+    bottom: 0px;
     left: 1px;
 }
 
 
 .about{
     position: relative;
-    top: -19px;
+    bottom: 18px;
     left: 69px;
 }
 
 
+
 .contact{
     position: relative;
-    top: -37px;
+    bottom: 37px;
     left: 139px;
 }
 
@@ -44,30 +45,32 @@ ul {
 }
 
 
+
 .img2{
     position: relative;
     top: 135px;
-    left: -141px;
+    right: 148px;
 }
+
 
 
 .p1{
     position: relative;
-    top: -230px;
+    bottom: 200px;
     left: 300px;
 }
 
 
 .p2{
     position: relative;
-    top: -180px;
+    bottom: 167px;
     left: 300px; 
 }
 
 
 .p3{
     position: relative;
-    top: -145px;
+    bottom: 111px;
     left: 300px;
 }
 

@@ -10,20 +10,22 @@
     top: 17px;
     left: 249px; 
 }
+
 ul {
     list-style-type: none;
   }
 
 .home{
     position: relative;
-    top: -1px;
+    bottom: 0px;
     left: 1px;
 }
 
 
+
 .about{
     position: relative;
-    top: -19px;
+    bottom: 18px;
     left: 69px;
 
 }
@@ -31,14 +33,14 @@ ul {
 
 .contact{
     position: relative;
-    top: -37px;
+    bottom: 37px;
     left: 139px;
 
 }
 
 .img{
     position: relative;
-    top: -123px;
+    bottom: 82px;
     left: 50px;
 
 }
@@ -48,13 +50,13 @@ ul {
 
     position: relative;
     top: 135px;
-    left: -141px;
+    right: 148px;
 }
 
 
 .p{
     position: relative;
-    top: -73px;
+    bottom: 85px;
     left: 326px;
 }
 

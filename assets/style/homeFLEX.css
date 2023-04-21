@@ -1,0 +1,107 @@
+.title{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 35px;
+    font-size: 70px;
+}
+
+
+
+.sub-title{
+    font-size: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: royalblue;
+    align-items: flex-start;
+    margin-left: 43px;
+    margin-top: 0px;
+}
+
+
+
+.title-back{
+    background-image: url(../media/img/Alternative\ Image.jpeg);
+    background-size: cover;
+    height: 735px;
+    margin-left: 43px;
+    margin-top: 40px;
+}
+
+
+.logo{
+position: relative;
+    width: 150px;
+    height: 150px;
+    left: 1062px;
+    bottom: 112px;
+}
+
+
+
+.nav{
+    display: flex;
+    justify-content: flex-start;
+    font-size: 40px;
+}
+
+
+
+ul {
+    list-style-type: none;
+  }
+
+
+
+  .home{
+    position: relative;
+    bottom: 17px
+  }
+
+
+  .about{
+    position: relative;
+    top: 18px;
+}
+  
+
+
+.contact{
+    position: relative;
+    top: 45px;
+}
+
+
+
+.info{
+    position: relative;
+    font-size: 30px;
+    bottom: 340px;
+    left: 300px;
+}
+
+
+
+.indent1{
+    position: relative;
+    left: 52px;
+    bottom: 27px;
+}
+
+
+
+
+.indent2{
+    position: relative;
+    left: 52px;
+    bottom: 20px;
+}
+
+
+
+
+.indent3{
+    position: relative;
+    left: 52px;
+    bottom: 20px;
+}
+    

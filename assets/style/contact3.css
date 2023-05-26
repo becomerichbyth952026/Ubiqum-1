@@ -1,0 +1,109 @@
+.title{
+    position: relative;
+    margin-left: 3px;
+    margin-top: 22px;
+    width: 783px;
+    font-size: 72px;
+    bottom: 70px;
+    height: 87px;
+}
+
+
+.sub-title{
+    position: relative;
+    margin-top: 0px;
+    top: 81px;
+    font-size: 65px;
+    left: 0px;
+    background-color: royalblue;
+    margin-right: 0px;
+    margin-bottom: 1px;
+    text-align: center;
+    margin-left: 43px;
+}
+
+
+
+.logo{
+    position: relative;
+    top: 135px;
+    left: 40px;
+    width: 250px;
+    height: 250px;
+
+}
+
+
+.title-back{
+    background-image: url(../media/img/Alternative\ Image.jpeg);
+    background-size: cover;
+    height: 735px;
+    margin-left: 43px;
+    margin-top: 40px;
+    position: relative;
+    top: 81px;
+}
+
+
+.nav{
+    position: relative;
+    float: left;
+    font-size: 40px;
+    left: 14px;
+    bottom: 23px;
+}
+    
+
+ul {
+    list-style-type: none;
+}
+
+
+.home{
+    position: relative;
+    bottom: 1023px;
+    left: 850px;
+    color: black;
+    background-color: blue;
+    text-align: center;
+}
+
+.h3{
+    color: black;
+}
+
+
+.about{
+    position: relative;
+    left: 1038px;
+    bottom: 1070px;
+    color: black;
+    background-color: blue;
+    text-align: center;
+}
+
+.a3{
+    color: black;
+}
+
+.contact{
+    position: relative;
+    left: 1217px;
+    bottom: 1116px;
+    color: black;
+    background-color: blue;
+    text-align: center;
+}
+
+.c3{
+    color: black;
+}
+
+
+.info{
+    position: relative;
+    left: 243px;
+    font-size: 32px;
+    bottom: 139px;
+}
+

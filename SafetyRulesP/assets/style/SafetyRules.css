@@ -1,3 +1,7 @@
 .test>li>ol{
 list-style-type: upper-alpha;
+} 
+
+.sub-list>li>p{
+list-style-type: upper-alpha;
 }

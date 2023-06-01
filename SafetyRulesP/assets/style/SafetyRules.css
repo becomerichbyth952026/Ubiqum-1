@@ -2,6 +2,11 @@
 list-style-type: upper-alpha;
 } 
 
-.sub-list>li>p{
+.helmet>li>ol{
 list-style-type: upper-alpha;
+}
+
+
+.helmet2>li>ol{
+list-style-type: lower-alpha;
 }

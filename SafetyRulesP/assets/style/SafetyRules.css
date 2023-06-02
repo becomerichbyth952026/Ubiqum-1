@@ -20,6 +20,6 @@ list-style-type: upper-alpha;
 list-style-type: upper-alpha;
 }
 
-.smallist>li>ol{
-list-style-type: bold;
+.cloth>li>ol{
+list-style-type: upper-alpha ;
 }

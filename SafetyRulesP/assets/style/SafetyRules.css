@@ -23,3 +23,52 @@ list-style-type: upper-alpha;
 .cloth>li>ol{
 list-style-type: upper-alpha ;
 }
+
+
+.hoop>li>ol{
+list-style-type: upper-alpha;
+}
+
+.bracing>ol>li{
+list-style-type: upper-alpha;
+}
+
+.protection>ol>li{
+list-style-type: upper-alpha;
+}
+
+.rollcage>ol>li{
+list-style-type: upper-alpha;
+}
+
+
+.consideration>ol>li{
+list-style-type: upper-alpha;
+}
+
+
+.FIA>ol>li{
+list-style-type: upper-alpha;
+}
+
+.bodies>ol>li{
+list-style-type: numbers ;
+}
+
+
+.vintagebody>ol>li{
+list-style-type: upper-alpha;
+}
+
+
+.SCCA>ol>li{
+list-style-type: upper-alpha;
+}
+
+.AB>ol>li{
+list-style-type: upper-alpha;
+}
+
+.endlist>ol>li{
+list-style-type: upper-alpha;
+}

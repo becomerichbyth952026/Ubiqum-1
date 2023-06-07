@@ -20,7 +20,7 @@ list-style-type: upper-alpha;
 list-style-type: upper-alpha;
 }
 
-.cloth>li>ol{
+.clothlist>ol>li{
 list-style-type: upper-alpha ;
 }
 
@@ -52,9 +52,8 @@ list-style-type: upper-alpha;
 }
 
 .bodies>ol>li{
-list-style-type: numbers ;
+list-style-type: upper-alpha;
 }
-
 
 .vintagebody>ol>li{
 list-style-type: upper-alpha;
@@ -74,6 +73,22 @@ list-style-type: upper-alpha;
 }
 
 
+.sub-hoop>ol>li{
+list-style-type: upper-alpha;
+}
+
+.tab>ol>li{
+list-style-type: upper-alpha;
+}
+
+
+
+.L1-section{
+    position: relative;
+    right: 38px;
+}
+
+
 .h1{
     position: relative;
     left: 421px;
@@ -88,26 +103,82 @@ list-style-type: upper-alpha;
 
 .first-level1{
     position: relative;
-    right: 28px;
+    right: 25px;
 
 }
-
 
 .vehicle{
     position: relative;
-    right: 41px;
+    right: 40px;
 }
-
 
 .test{
     position: relative;
-    right: 40px;
-} 
+    right: 38px;
+}
 
+
+.interior{
+    position: relative;
+    right: 38px;
+}
+
+
+.brakes{
+    position: relative;
+    right: 38px;
+}
+
+
+
+.tires-wheels{
+    position: relative;
+    right: 38px;
+}
+
+
+.s-s{
+    position: relative;
+    right: 38px;
+}
+
+
+.e-g{
+    position: relative;
+    right: 38px;
+}
+
+.rollbars{
+    position: relative;
+    right: 38px;
+}
+
+
+.Other{
+    position: relative;
+    right: 38px;
+}
 
 .convertibles{
     position: relative;
-    right: 40px;
+    right: 12px;
+}
+
+.c-1{
+    position: relative;
+    right: 38px;
+}
+
+
+.c-2{
+    position: relative;
+    right: 39px;
+}
+
+
+.c-3{
+    position: relative;
+    right: 39px;
 }
 
 
@@ -116,14 +187,371 @@ list-style-type: upper-alpha;
     right: 17px;
 }
 
-
-.ph-helmet{
+.helmet{
     position: relative;
     right: 39px;
 }
 
-.helmet{
+.h-1{
+    position: fixed;
+    
+}
+
+.h-2{
+    position: relative;
+    right: 39px;
+}
+
+.Ahelmet{
+    position: relative;
+    right: 39px;
+}
+
+
+.h-3{
+    position: relative;
+    right: 40px;
+}
+
+.sub-Ahelmet{
+    position: relative;
+    right: 39px;
+}
+
+
+
+.B{
+    position: relative;
+    right: 20px;
+}
+
+.C{
+    position: relative;
+    right: 20px;
+}
+
+
+.cloth2{
+    position: relative;
+    right: 40px;
+}
+
+.cloth{
+    position: relative;
+    right: 80px;
+}
+
+.cloth-1{
+    position: relative;
+    right: 40px;
+}
+
+.A-shoes{
+    position: relative;
+    right: 20px;
+}
+
+
+.level2{
+    position: relative;
+    right: 39px;
+}
+
+
+.safety{
+    position: relative;
+    right: 16px;
+}
+
+.safety1{
+    position: relative;
+    right: 16px;
+}
+
+
+.roll1{
+    position: relative;
+    right: 16px;
+}
+
+
+.roll2{
+    position: relative;
+    right: 16px;
+}
+
+.roll3{
     position: relative;
     right: 41px;
 }
 
+
+.driver{
+    position: relative;
+    right: 38px;
+}
+
+
+.driver1{
+    position: relative;
+    right: 38px;
+}
+
+
+.sub-driver{
+    position: relative;
+    right: 38px;
+}
+
+
+.fire{
+    position: relative;
+    right: 38px;
+}
+
+
+.fire2{
+    position: relative;
+    right: 38px;
+}
+
+.driver3{
+    position: relative;
+    right: 15px;
+}
+
+
+.helmet2{
+    position: relative;
+    right: 38px;
+}
+
+
+.helmet-1{
+    position: relative;
+    right: 41px;
+}
+
+
+.sub-h-1{
+    position: relative;
+    right: 38px
+}
+
+
+.sub-h-2{
+    position: relative;
+    right: 37px
+}
+
+
+.B-1{
+    position: relative;
+    right: 24px
+}
+
+
+.C-1{
+    position: relative;
+    right: 24px
+}
+
+
+.D-1{
+    position: relative;
+    right: 24px
+}
+
+.for-drivers{
+    position: relative;
+    right: 39px
+}
+
+
+.end-list{
+    position: relative;
+    right: 78px
+}
+
+
+.cloth-list{
+    position: relative;
+    right: 40px;
+}
+
+
+.sub-cloth{
+    position: relative;
+    right: 38px;
+}
+
+
+.accessori{
+    position: relative;
+    right: 82px;
+}
+
+
+.overview{
+    position: relative;
+    right: 41px;
+}
+
+
+.hoop-list{
+    position: relative;
+    right: 40px;
+}
+
+
+.hoop2{
+    position: relative;
+    right: 118px;
+}
+
+
+.bracing-list{
+    position: relative;
+    right: 118px;
+}
+
+
+.front-hoop{
+    position: relative;
+    right: 37px;
+}
+
+
+.front-hoop1{
+    position: relative;
+    right: 37px;
+}
+
+
+.B-front{
+    position: relative;
+    right: 14px;
+}
+
+.sub-front{
+    position: relative;
+    right: 35px;
+}
+
+
+.protection{
+    position: relative;
+    right: 118px;
+}
+
+
+.door{
+    position: relative;
+    right: 38px;
+}
+
+
+
+.rollcage{
+    position: relative;
+    right: 79px;
+}
+
+
+.rollcage2{
+    position: relative;
+    right: 79px;
+}
+
+
+.table{
+    position: relative;
+    right: 81px;
+}
+
+
+.consideration{
+    position: relative;
+    right: 117px;
+}
+
+
+.sub-consideration{
+    position: relative;
+    right: 157px;
+}
+
+
+.FIA1{
+    position: relative;
+    right: 118px;
+}
+
+.alternative{
+    position: relative;
+    right: 15px;
+}
+
+.sub-alternative{
+    position: relative;
+    right: 38px;
+}
+
+
+.upb{
+    position: relative;
+    right: 78px;
+}
+
+
+.sub-bodies{
+    position: relative;
+    right: 69px;
+}
+
+
+.sub-note{
+    position: relative;
+    right: 16px;
+}
+
+
+.vintage{
+    position: relative;
+    right: 119px;
+}
+
+
+.safety1{
+    position: relative;
+    right: 13px;
+}
+
+
+.sub-safety{
+    position: relative;
+    right: 10px;
+}
+
+.last-list{
+    position: relative;
+    right: 38px;
+}
+
+
+.SCCA{
+    position: relative;
+    right: 78px;
+}
+
+
+.A-B{
+    position: relative;
+    right: 117px;
+}
+
+
+.endlist{
+    position: relative;
+    right: 119px;
+}

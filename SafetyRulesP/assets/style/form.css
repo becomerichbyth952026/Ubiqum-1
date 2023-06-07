@@ -1,0 +1,79 @@
+.sub__form{
+    position: relative;
+    bottom: 17px;
+}
+
+
+
+
+.Fname_{
+    width: 15%;
+    border: none;
+    border-bottom: 2px solid grey;
+    outline: none;
+    
+}
+   
+.Sname_{
+    width: 20%;
+    border: none;
+    border-bottom: 2px solid grey;
+    outline: none;
+    
+}
+
+.StreetA_{
+    width: 20%;
+    border: none;
+    border-bottom: 2px solid grey;
+    outline: none;
+}
+
+.City_{
+    width: 20%;
+    border: none;
+    border-bottom: 2px solid grey;
+    outline: none;
+}
+
+.ZipCode_{
+    width: 20%;
+    border: none;
+    border-bottom: 2px solid grey;
+    outline: none;
+}
+
+.Age_{
+    width: 20%;
+    border: none;
+    border-bottom: 2px solid grey;
+    outline: none;
+}
+
+.ContactPhone_{
+    width: 20%;
+    border: none;
+    border-bottom: 2px solid grey;
+    outline: none;
+}
+
+.ContactEmail{
+    width: 20%;
+    border: none;
+    border-bottom: 2px solid grey;
+    outline: none;
+}
+
+.Signature_{
+    width: 30%;
+    border: none;
+    border-bottom: 2px solid grey;
+    outline: none;
+}
+
+.Date_{
+    width: 20%;
+    border: none;
+    border-bottom: 2px solid grey;
+    outline: none;
+}
